@@ -1,0 +1,1 @@
+### Solutions of Math Category - https://www.interviewbit.com/courses/programming/topics/math/

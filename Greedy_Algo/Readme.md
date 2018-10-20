@@ -1,0 +1,1 @@
+### Solutions of Greedy Algorithms - https://www.interviewbit.com/courses/programming/topics/greedy-algorithm/

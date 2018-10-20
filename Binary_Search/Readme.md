@@ -1,0 +1,1 @@
+### Solutions of Binary Search - https://www.interviewbit.com/courses/programming/topics/binary-search/
